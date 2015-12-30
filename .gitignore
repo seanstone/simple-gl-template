@@ -1,0 +1,13 @@
+bin/
+build/
+lib/
+obj/
+*.o
+*.so
+
+## Windows
+*.dll
+*.exe
+
+QuaternionViewer
+*.csv
